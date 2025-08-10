@@ -1,0 +1,3530 @@
+[
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Green/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.07058823853731155,
+          "g": 0.6274510025978088,
+          "b": 0.6274510025978088,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.0784313753247261,
+          "g": 0.42352941632270813,
+          "b": 0.9411764740943909,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Pink/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.3607843220233917,
+          "b": 0.4745098054409027,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Emphasis/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.029999999329447746
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0,
+          "g": 0.062745101749897,
+          "b": 0.054901961237192154,
+          "a": 0.30000001192092896
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Lime/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.529411792755127,
+          "g": 0.7843137383460999,
+          "b": 0.10980392247438431,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Blue/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.4588235318660736,
+          "b": 0.9450980424880981,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Orange/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.529411792755127,
+          "b": 0.14901961386203766,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Yellow/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 1,
+          "g": 0.8313725590705872,
+          "b": 0.10588235408067703,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Brown/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.8156862854957581,
+          "g": 0.43529412150382996,
+          "b": 0.23529411852359772,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Red/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.9490196108818054,
+          "g": 0.32549020648002625,
+          "b": 0.125490203499794,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Purple/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.5058823823928833,
+          "g": 0.18431372940540314,
+          "b": 0.8274509906768799,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/1",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 8,
+        "spread": 2,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 1
+        },
+        "radius": 4,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/2",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 12,
+        "spread": 4,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "radius": 6,
+        "spread": -1,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/4",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 20,
+        "spread": 8,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 10,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/8",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 36,
+        "spread": 16,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "radius": 18,
+        "spread": -2,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/16",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 68,
+        "spread": 32,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 16
+        },
+        "radius": 34,
+        "spread": -4,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/24",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 100,
+        "spread": 48,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 24
+        },
+        "radius": 50,
+        "spread": -6,
+        "showShadowBehindNode": false
+      }
+    ]
+  },
+  {
+    "type": "EFFECT",
+    "name": "Elevation Cyan/32",
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.07999999821186066
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 132,
+        "spread": 64,
+        "showShadowBehindNode": false
+      },
+      {
+        "type": "DROP_SHADOW",
+        "visible": true,
+        "color": {
+          "r": 0.2666666805744171,
+          "g": 0.6392157077789307,
+          "b": 0.9647058844566345,
+          "a": 0.23999999463558197
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 32
+        },
+        "radius": 66,
+        "spread": -7,
+        "showShadowBehindNode": false
+      }
+    ]
+  }
+]

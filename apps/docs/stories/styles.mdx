@@ -1,0 +1,95 @@
+import { Canvas, Meta, Story, Unstyled } from '@storybook/addon-docs/blocks';
+import {
+  BackgroundColor,
+  BorderColor,
+  BoxShadow,
+  BoxShadowExtra,
+  DivideColor,
+  FontSize,
+  PrimitiveColors,
+  TextColor,
+  Typography,
+} from './styles';
+import * as StylesStories from './styles.stories';
+
+<Meta of={StylesStories} />
+
+# Styles
+
+sour-reactでは、[Tailwind CSS](https://tailwindcss.com/)のテーマをカスタマイズして使用しています。また、Tailwind CSSの組み込みのユーティリティに加えて、sour-react独自のコンポーネントやユーティリティも併せて提供しています。この項では、これらsour-react独自のスタイルについて説明します。
+
+- [colors](#colors)
+  - [text-color](#text-color)
+  - [background-color](#background-color)
+  - [border-color](#border-color)
+  - [Primitive colors](#primitive-colors)
+- [typography](#typography)
+- [font-size](#font-size)
+- [box-shadow](#box-shadow)
+
+## colors
+
+colorsは[Figmaファイル](https://www.figma.com/design/y4Dqe1SvQrU0zFfmanab8v/Sour-for-KARTE)のcolor stylesをもとにして定義されています。color stylesのうち、Semantic colorsはTailwind CSSの一部のユーティリティでのみ、Primitive colorsは[色を扱うすべてのユーティリティ](https://tailwindcss.com/docs/colors#using-color-utilities)で使用できます。
+
+### text-color
+
+color stylesの`Semantic/Text/*`は、[colorユーティリティ](https://tailwindcss.com/docs/color)で使用できます。
+
+<TextColor />
+
+### background-color
+
+color stylesの`Semantic/Bg/*`は、[background-colorユーティリティ](https://tailwindcss.com/docs/background-color)で使用できます。
+
+<BackgroundColor />
+
+### border-color
+
+color stylesの`Semantic/Border/*`は、[border-colorユーティリティ](https://tailwindcss.com/docs/border-color)で使用できます。
+
+<BorderColor />
+<DivideColor />
+
+### Primitive colors
+
+color stylesの`Primitive/*`は、[色を扱うすべてのユーティリティ](https://tailwindcss.com/docs/colors#using-color-utilities)で使用できます。`text-primitive-green-600`のようなクラスから使用できます。
+
+基本的には、Primitive colorsではなくSemantic colorsを使用してください。Semantic colorsが使用できない場合のみ、Primitive colorsを使用してください。
+
+<details>
+  <summary>Primitive colorsの対応表</summary>
+  <PrimitiveColors />
+</details>
+
+## typography
+
+typographyは[Figmaファイル](https://www.figma.com/design/y4Dqe1SvQrU0zFfmanab8v/Sour-for-KARTE)のtext stylesをもとにして定義されています。
+
+使い分けについては[Typographyのデザインドキュメント](https://plaidev.gitbook.io/sour-designsystem/foundations/typography)を参照してください。
+
+<Typography />
+
+<Canvas of={StylesStories.Typography} sourceState="none" />
+
+## font-size
+
+Sourにおいて一般的に使用される`font-size`と`line-height`の組み合わせが[font-sizeユーティリティ](https://tailwindcss.com/docs/font-size)として定義されています。
+
+基本的には、font-sizeユーティリティではなくtypographyを使用してください。typographyが使用できない場合のみ、font-sizeユーティリティを使用してください。
+
+<FontSize />
+
+<Canvas of={StylesStories.FontSize} sourceState="none" />
+
+## box-shadow
+
+box-shadowは、[Figmaファイル](https://www.figma.com/design/y4Dqe1SvQrU0zFfmanab8v/Sour-for-KARTE)のeffect stylesをもとにして定義されています。[box-shadowユーティリティ](https://tailwindcss.com/docs/box-shadow)で使用できます。
+
+<BoxShadow />
+
+<details>
+  <summary>color版の対応表</summary>
+  <BoxShadowExtra />
+</details>
+
+<Canvas of={StylesStories.BoxShadow} sourceState="none" />

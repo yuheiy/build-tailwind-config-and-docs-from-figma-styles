@@ -1,0 +1,5 @@
+{
+  "tailwindCSS.classFunctions": ["twMerge"],
+  "tailwindCSS.experimental.configFile": "apps/docs/.storybook/index.css",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
